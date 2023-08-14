@@ -1,0 +1,15 @@
+.footer {
+  color: #ffffff;
+  border-radius: var(--border-radius-lg);
+  background-image: linear-gradient(
+    to left bottom,
+    #ff4d4f,
+    #ca2f6b,
+    #862c70,
+    #40285d,
+    #051937
+  );
+  padding: var(--padding-medium);
+  display: grid;
+  gap: var(--padding-medium);
+}

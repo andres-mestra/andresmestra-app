@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Printer Plugin For SmartPOS',
     description:
-      'Capacitor plugin para la conexión a la impresora del terminal de pago móvil Pax, con esta base se codigo se pueden crear plugins para los demas perifericos del dispositivo.',
+      'Plugin de Capacitor para la conexión a la impresora del terminal de pago móvil Pax. Con esta base de código se pueden crear plugins para los demás periféricos del dispositivo.',
     image: '/images/projects/pax-plugin-printer.png',
     url: 'https://github.com/ticketplushq/capacitor-pos-pax-printer-utility',
     githubUrl:
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: 'Trading Tools',
     description:
-      'Aplicación para el trading de criptomonedas basada en la API de Binance, para obtener puntos de entrada de acuerdo al libro de ordenes de compra, con actualización de precio en tiempo real.',
+      'Aplicación para el trading de criptomonedas basada en la API de Binance, para obtener puntos de entrada de acuerdo con el libro de órdenes de compra, con actualización de precio en tiempo real.',
     image: '/images/projects/trading-tools.png',
     url: 'https://trading-tools-spartans.vercel.app/dos-uno',
     githubUrl: 'https://github.com/andres-mestra/trading_tools',
